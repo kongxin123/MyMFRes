@@ -16,19 +16,19 @@
 
 接受广告商赞助,正规发卡网/卡盟/等均可接受,具体请<a href="http://wpa.qq.com/msgrd?v=3&uin=2160872370&site=qq&menu=yes">联系我</a>
 
-官方网址 <a href="https://www.dllapi.com/">www.dllapi.com</a>
 
-<a href="https://wwa.lanzoui.com/b0creabid">资源网盘密码:bf3e</a>
 
-<a href="https://wwd.lanzouw.com/is0ML09cz84j">资源下载器(可通过该工具快速获取验证)</a>
+资源网盘密码<a href="https://wwa.lanzoui.com/b0creabid">bf3e</a>
 
-验证教程(bilibili,记得一键三连哦！！！)
+资源下载器<a href="https://wwd.lanzouw.com/is0ML09cz84j">快速下载</a>
+
+验证教程(bilibili,一键三连)
 
 <a href="https://www.bilibili.com/video/BV1Uq4y1t7xy">易语言-对接教程</a>
 <a href="https://www.bilibili.com/video/BV1W34y1H7py">易语言-VMP授权锁对接教程</a>
 <a href="https://www.bilibili.com/video/BV1ha411571k">易语言-云计算对接使用教程</a>
 
 接口文档：
-<a href="https://docs.dllapi.com/">https://docs.dllapi.com/</a>
+<a href="https://docs.dllapi.com/">主线文档</a>
 <a href="https://docs.apipost.cn/preview/4cfc708538440167/135183606874aab9">备用文档</a>
 
