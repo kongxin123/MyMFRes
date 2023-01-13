@@ -1,11 +1,34 @@
-### 欢迎使用,MF网络验证系统,官方网址 www.dllapi.com    ###
+### 欢迎使用,MF网络验证系统,官方网址 <a href="https://www.dllapi.com/">www.dllapi.com</a>   ###
 
 ### [本系统完全免费] ###### 【禁止使用本程序服务各类非法软件】 ###
 
 ### 本系统非全职开发,更新进度慢见谅 ###
 
-### 交流群221689201 ###
+### 交流群:<a href="https://jq.qq.com/?_wv=1027&k=1L1SaHs0">221689201</a> ###
 
 ### 一切资源以网盘文件为准 ###
 
-### 【星辰云】热门云产品首单特惠秒杀，2核2G10M高防云服务器首月105元 www.callnop.com ###
+### 【星辰云】热门云产品首单特惠秒杀，2核2G10M高防云服务器首月105元 <a href="//www.callnop.com">www.callnop.com</a> ###
+
+本验证域名将在2023年2月26日到期,如域名到期届时服务端将可能不能正常运行,希望有小伙伴赞助域名费用(免费程序,我乞讨不过分吧?)~
+
+<a href="https://www.dllapi.com/res/sponsorship.jpg">→→→点击此处赞助我←←←</a>
+
+接受广告商赞助,正规发卡网/卡盟/等均可接受,具体请<a href="http://wpa.qq.com/msgrd?v=3&uin=2160872370&site=qq&menu=yes">联系我</a>
+
+官方网址 <a href="https://www.dllapi.com/">www.dllapi.com</a>
+
+<a href="https://wwa.lanzoui.com/b0creabid">资源网盘密码:bf3e</a>
+
+<a href="https://wwd.lanzouw.com/is0ML09cz84j">资源下载器(可通过该工具快速获取验证)</a>
+
+验证教程(bilibili,记得一键三连哦！！！)
+
+<a href="https://www.bilibili.com/video/BV1Uq4y1t7xy">易语言-对接教程</a>
+<a href="https://www.bilibili.com/video/BV1W34y1H7py">易语言-VMP授权锁对接教程</a>
+<a href="https://www.bilibili.com/video/BV1ha411571k">易语言-云计算对接使用教程</a>
+
+接口文档：
+<a href="https://docs.dllapi.com/">https://docs.dllapi.com/</a>
+<a href="https://docs.apipost.cn/preview/4cfc708538440167/135183606874aab9">备用文档</a>
+
